@@ -5,7 +5,7 @@
 Welcome to the 3D Chess Game, a high-performance, web-based interactive experience designed to bring the classic game of strategy to the browser. This project leverages advanced web rendering technologies to provide a smooth, immersive, and visually stunning gameplay environment.
 
 ### 🚀 Live Demo
-Experience the full 3D board live: 👉 famous-alfajores-fea69c.netlify.app
+Experience the full 3D board live: 👉 marvelous-duckanoo-3c7d5d.netlify.app
 
 ### ✨ Key Features
 
